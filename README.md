@@ -38,15 +38,11 @@ Welcome to the **To-Do List App**, a simple and efficient platform to help users
      ```bash
      source env/bin/activate
      ```
-5. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-6. Run migrations:
+5. Run migrations:
    ```bash
    python manage.py migrate
    ```
-7. Start the development server:
+6. Start the development server:
    ```bash
    python manage.py runserver
    ```
@@ -59,31 +55,6 @@ Welcome to the **To-Do List App**, a simple and efficient platform to help users
 2. Start adding and managing your tasks!
 
 ---
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve this project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Create a pull request.
-
----
-
-## Contact
-
-For any inquiries or support, feel free to reach out:
 
 - **Developer**: Muhammad Awais  
 - **Email**: m.awais.softwareeng@gmail.com   
